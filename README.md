@@ -4,7 +4,7 @@ _it's all free, don't be stingy ⭐️ yes: D_
 
 #### ^_^ Works For 6 hrs <br>
 
-### 😎 Mac , Windows , Linux VPS : https://github.com/proavipatil/AviVPS
+### 😎 MacOS , Windows , Linux VPS : https://github.com/proavipatil/AviVPS
 <br>
 
 
