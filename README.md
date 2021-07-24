@@ -1,18 +1,15 @@
-# Avi_RDP 🍁
+# GitRDP 🍁
 
 _it's all free, don't be stingy ⭐️ yes: D_
 
 #### ^_^ Works For 6 hrs <br>
 
-### 😎 MacOS , Windows , Linux VPS : https://github.com/proavipatil/AviVPS
 <br>
 
 
-#### ⚠ Don't Edit AnyThing to keep Running Without any Error (+_+)
-
 <br>
 
-### HOW TO CREATE Avi_RDP
+### HOW TO CREATE
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
 
@@ -43,9 +40,4 @@ CPU 2core - 7GB Ram - 256 SSD
 THIS IS ONLY FOR EDUCATIONAL PURPOSES
 
 DON'T USE FOR MINING OR ILLEGAL USE
-
-DON'T RECODE THIS SC!
 ```
----
-
-#### Main Repository : https://github.com/proavipatil/AviRDP
