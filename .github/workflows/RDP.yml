@@ -20,7 +20,7 @@ jobs:
       run: |
         Invoke-WebRequest https://raw.githubusercontent.com/jrdrwn/GitRDP/main/launcher/Node.js.lnk -OutFile Node.js.lnk
         Invoke-WebRequest https://raw.githubusercontent.com/jrdrwn/GitRDP/main/launcher/Visual%20Studio%202019.lnk -OutFile "Visual Studio 2019.lnk"
-        Invoke-WebRequest https://raw.githubusercontent.com/jrdrwn/GitRDP/main/launcher/GitRDP/raw/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
+        Invoke-WebRequest https://raw.githubusercontent.com/jrdrwn/GitRDP/main/launcher/Ganti%20Password.exe -OutFile "Ganti Password.exe"
     - name: Mengextract Ngrok File.
       run: Expand-Archive ngrok.zip
     - name: Connect Ke Akun Ngrok.
