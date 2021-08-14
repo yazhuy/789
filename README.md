@@ -4,11 +4,6 @@ _it's all free, don't be stingy ⭐️ yes: D_
 
 #### ^_^ Works For 6 hrs <br>
 
-<br>
-
-
-<br>
-
 ### HOW TO CREATE
 ```
 > Press the Fork button to create RDP (For Android / HP Users, Please Use Desktop Mode).
